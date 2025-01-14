@@ -21,6 +21,8 @@ body {
 
 .slide {
     display: none;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 
 h1, h2 {
